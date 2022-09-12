@@ -36,15 +36,6 @@
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> </a>
 </p>
 
-## 📊 My Github 
-
-<p align="center" style="display: flex;">
-  
-  <a href="https://github.com/shabrina438/github-readme-stats"><img alt="Shabrina's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabrina438&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="border-radius: 5px;" /></a>
- 
-</p>
-
-
 <br/>
 <hr>
 <h3 align="left">Connect with me:</h3>
